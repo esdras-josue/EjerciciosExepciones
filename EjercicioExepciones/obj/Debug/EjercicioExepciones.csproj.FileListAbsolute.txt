@@ -1,0 +1,7 @@
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\bin\Debug\EjercicioExepciones.exe.config
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\bin\Debug\EjercicioExepciones.exe
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\bin\Debug\EjercicioExepciones.pdb
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\obj\Debug\EjercicioExepciones.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\obj\Debug\EjercicioExepciones.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\obj\Debug\EjercicioExepciones.exe
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjercicioExepciones\EjercicioExepciones\obj\Debug\EjercicioExepciones.pdb
